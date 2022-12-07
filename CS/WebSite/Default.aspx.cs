@@ -1,7 +1,7 @@
 using System;
 using System.Web.UI;
 using System.Collections;
-using DevExpress.Web.ASPxClasses;
+using DevExpress.Web;
 using DevExpress.Web.ASPxTreeList;
 
 public partial class _Default : System.Web.UI.Page {

@@ -2,7 +2,7 @@ Imports Microsoft.VisualBasic
 Imports System
 Imports System.Web.UI
 Imports System.Collections
-Imports DevExpress.Web.ASPxClasses
+Imports DevExpress.Web
 Imports DevExpress.Web.ASPxTreeList
 
 Partial Public Class _Default
