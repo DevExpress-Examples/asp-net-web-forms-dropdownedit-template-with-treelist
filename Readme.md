@@ -8,7 +8,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/e2854/)**
 <!-- run online end -->
 
-This example demonstrates how to embed [ASPxTreeList](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxTreeList.ASPxTreeList) into [ASPxDropDownEdit](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxDropDownEdit)'s dropdown window template. Click on a node within the [ASPxTreeList](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxTreeList.ASPxTreeList) changes the editor's value.
+This example demonstrates how to embed [ASPxTreeList](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxTreeList.ASPxTreeList) into [ASPxDropDownEdit](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxDropDownEdit)'s dropdown window template. When a user clicks a node within ASPxTreeList, the value of ASPxDropDownEdit changes.
 
 ![](treelist-in-dropdpwnedit-window-template.png)
 
